@@ -1938,6 +1938,21 @@ h1, h2, h3, h4, h5, h6 {
   background-color: rgb(27 0 44 / var(--tw-bg-opacity));
 }
 
+.bg-sandy-tan {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 230 186 / var(--tw-bg-opacity));
+}
+
+.bg-dandy-teal {
+  --tw-bg-opacity: 1;
+  background-color: rgb(20 95 160 / var(--tw-bg-opacity));
+}
+
+.bg-hot-pink {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 65 252 / var(--tw-bg-opacity));
+}
+
 .bg-lavender {
   --tw-bg-opacity: 1;
   background-color: rgb(229 204 255 / var(--tw-bg-opacity));
@@ -1951,6 +1966,11 @@ h1, h2, h3, h4, h5, h6 {
 .bg-violet {
   --tw-bg-opacity: 1;
   background-color: rgb(94 56 190 / var(--tw-bg-opacity));
+}
+
+.bg-tan {
+  --tw-bg-opacity: 1;
+  background-color: rgb(227 233 223 / var(--tw-bg-opacity));
 }
 
 .bg-enchanted-forest-layer-1 {
@@ -2386,9 +2406,29 @@ h1, h2, h3, h4, h5, h6 {
   color: rgb(27 0 44 / var(--tw-text-opacity));
 }
 
+.text-dandy-yellow {
+  --tw-text-opacity: 1;
+  color: rgb(255 190 110 / var(--tw-text-opacity));
+}
+
+.text-dandy-gray {
+  --tw-text-opacity: 1;
+  color: rgb(238 224 230 / var(--tw-text-opacity));
+}
+
 .text-lavender {
   --tw-text-opacity: 1;
   color: rgb(229 204 255 / var(--tw-text-opacity));
+}
+
+.text-pink-dandy {
+  --tw-text-opacity: 1;
+  color: rgb(255 115 255 / var(--tw-text-opacity));
+}
+
+.text-dandy-teal {
+  --tw-text-opacity: 1;
+  color: rgb(20 95 160 / var(--tw-text-opacity));
 }
 
 .text-purple {
@@ -2733,13 +2773,13 @@ details {
   pointer-events: auto;
   border-radius: 30px;
   --tw-bg-opacity: 1;
-  background-color: rgb(182 115 235 / var(--tw-bg-opacity));
+  background-color: rgb(227 233 223 / var(--tw-bg-opacity));
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
   padding-left: 1rem;
   padding-right: 1rem;
   --tw-text-opacity: 1;
-  color: rgb(27 0 44 / var(--tw-text-opacity));
+  color: rgb(63 193 207 / var(--tw-text-opacity));
 }
 
 @media (min-width: 1024px) {
@@ -3073,6 +3113,16 @@ canvas {
   .lg\:bg-deep-purple {
     --tw-bg-opacity: 1;
     background-color: rgb(27 0 44 / var(--tw-bg-opacity));
+  }
+
+  .lg\bg-sandy-tan {
+    --tw-bg-opacity: 1;
+    background-color: rgb(254 230 186 / var(--tw-bg-opacity));
+  }
+
+  .lg\:bg-dandy-teal {
+    --tw-bg-opacity: 1;
+    background-color: rgb(20 95 160 / var(--tw-bg-opacity));
   }
 
   .lg\:bg-groundboi {
