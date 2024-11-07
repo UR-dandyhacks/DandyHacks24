@@ -9,9 +9,10 @@ module.exports = {
     },
     backgroundImage: {
       "plus-icon": "url('img/icons/plus.png')",
-      seashore: "url('img/seashore.png')",
+      "seashore": "url('img/seashore.png')",
       "floating-fox": "url('img/FloatingFox.png')",
       "lying-down-fox": "url('img/LyingDownFox.png')",
+      "prize-acer-nitro-monitor": "url('img/prizes/acer_nitro_monitor.png')",
     },
     extend: {
       backgroundPosition: {
